@@ -25,3 +25,4 @@ make -j*  *是你CPU的线程
 
 sudo make install
 sudo ldconfig
+done
